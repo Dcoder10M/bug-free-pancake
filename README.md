@@ -1,4 +1,5 @@
 ## Code it Up
 
-Helllllllllooooooooooooooooooooooo
+Helllllllllooooooooooooooooooooooo oops
 Removed some os
+Getting Familiar now
